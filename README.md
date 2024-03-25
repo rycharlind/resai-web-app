@@ -1,6 +1,6 @@
 # ResAI Web App
 
-A svelte based SPA that used for analyzing documents in Azure Storage using AI models.
+An AI-powered document analysis tool, developed as a Svelte-based Single Page Application, utilizing Azure Storage for data management.
 
 ## Get started
 
